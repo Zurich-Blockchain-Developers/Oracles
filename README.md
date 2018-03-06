@@ -1,9 +1,10 @@
 # ProofOfData
-A service for proving the orginality of data beyond doubt while providing full data privacy using blockchain timestamping, notary and more.
+
+A service for transferring verifiable data between transacting parties, enabling features such as remote file comparison, associating and timestamping files onto blockchain ledgers, ultra safe encrypted data storage and sharing solutions, proof of data’s originality, and more.
 
 The problem we want to solve:
 
-Different industries and their subdivisions require tremendous amounts of data to be transferred between many parties to clarify anything from construction requirements to legal agreements, that list is far too long to fit here.
+Different industries and their subdivisions require tremendous amounts of data to be transferred between parties to clarify anything from construction requirements to legal agreements, that list is far too long to fit here.
 The problem is that this data is often unreliable, and this is especially problematic for mission critical documents and data where a lack of ability to ensure the data was not corrupted or manipulated in transfer can sometimes prove detrimental or damaging to the effort. 
 In this digital age, the bulk of data such as documents, audio, video is naturally shifting from printed paper and analog storage and into digital form, as digitalized data is superiorly transferable, storable, editable, presentable, flexible (think documents with embedded video) and more.
 On the other hand, we also recognize two major setbacks of digitalized data.
