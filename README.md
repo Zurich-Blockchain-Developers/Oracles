@@ -1,6 +1,10 @@
 # ProofOfData
 
-A service for transferring verifiable data between transacting parties, enabling features such as remote file comparison, associating and timestamping files onto blockchain ledgers, ultra safe encrypted data storage and sharing solutions, proof of data’s originality, and more.
+Another simple use case of an immutable ledger that supprots digital currency is to prove the existance of real world data in a time stamped permanent manner.
+This may not seem significant at first glance but this simple ability serves as the infrastructure for an incredible amunt of services, part of which, I believe, will be fundamental parts of future society. Trust-less file comparison, permanent timestamps of real world data, assisting the proof of data’s originality, and so much more!
+
+The most simple operation in essence, is appending the hash of a file onto your chosen blockchain.
+As long as the ledger of this blockchain exists in a verifiable way, the proof that the data that produced that hash existed at that certain time, is almost imposibble to contradict, having to at least crack the SHA-256 algorithm in order to invalidate such proof.
 
 The problem we want to solve:
 
