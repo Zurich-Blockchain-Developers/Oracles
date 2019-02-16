@@ -1,6 +1,6 @@
 #Next Steps
 
-- supply chain topic (Lukas has an example), analyse and develop
+- supply chain topic (@ninuxch business case), analyse and develop
 - review game theory concept (for oracles)
 - build oracles, initially may be a single oracle
 - in other applications use consensus oracles
