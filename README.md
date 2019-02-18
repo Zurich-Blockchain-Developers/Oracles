@@ -1,6 +1,6 @@
 # ProofOfData
 
-Another simple use case of an immutable ledger that supprots digital currency is to prove the existance of real world data in a time stamped permanent manner.
+Another simple use case of an immutable ledger that supports digital currency is to prove the existance of real world data in a time stamped permanent manner.
 This may not seem significant at first but this simple ability serves as infrastructure for an incredible amunt of services, part of which, I believe, will be fundamental to future society. Trust-less file comparison, notarizing of real world data, assisting proof of data originality, and so much more!
 
 A hashing algorithm is like a perfectly defined food processor where if you put the same exact vegetables into it in the exact same fashion and run it for the exact same time, you will always get the same exact result. Feeding the same data into a hashing algorithm will always produce the same signature, and every unique data set will always produce its own unique signature no matter how many times or at what point in time you feed that data into the hash function. Also, if you change anything at all in the data, the signature changes in a way that you couldn't destinguish what change may have caused the change through the change in the signature. If any of these rules are violated (in a relatively easy way), your hashing algorithm is defunct and can no longer serve the purpose it was intended for.
@@ -13,7 +13,7 @@ As a first application, data that is time stamped cannot be impostered by any ot
 The problem we want to solve:
 
 Different industries and their subdivisions require tremendous amounts of data to be transferred between parties to clarify anything from construction requirements to legal agreements, that list is far too long to fit here.
-The problem is that this data is often unreliable, and this is especially problematic for mission critical documents and data where a lack of ability to ensure the data was not corrupted or manipulated in transfer can sometimes prove detrimental or damaging to the effort. 
+The problem is that this data is often unreliable, and this is especially problematic for mission critical documents and data where a lack of ability to ensure the data was not corrupted or manipulated in transfer can sometimes prove detrimental or damaging to the effort.
 In this digital age, the bulk of data such as documents, audio, video is naturally shifting from printed paper and analog storage and into digital form, as digitalized data is superiorly transferable, storable, editable, presentable, flexible (think documents with embedded video) and more.
 On the other hand, we also recognize two major setbacks of digitalized data.
 1.	Easily manipulated – technologies such as Photoshop or Adobe’s PDF editing technology show us how easy it is to edit anything from text documents to audio and video files to all other digitalized data.
