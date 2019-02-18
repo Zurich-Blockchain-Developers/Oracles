@@ -1,4 +1,4 @@
-#Next Steps
+# Next Steps
 
 - supply chain topic (@ninuxch business case), analyse and develop
 - review game theory concept (for oracles)
