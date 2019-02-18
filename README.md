@@ -1,12 +1,12 @@
 # ProofOfData
 
-Another simple use case of an immutable ledger that supports digital currency is to prove the existance of real world data in a time stamped permanent manner.
-This may not seem significant at first but this simple ability serves as infrastructure for an incredible amunt of services, part of which, I believe, will be fundamental to future society. Trust-less file comparison, notarizing of real world data, assisting proof of data originality, and so much more!
+Another simple use case of an immutable ledger that supports digital currency is to prove the existence of real world data in a time stamped permanent manner.
+This may not seem significant at first but this simple ability serves as infrastructure for an incredible amount of services, part of which, I believe, will be fundamental to future society. Trust-less file comparison, notarizing of real world data, assisting proof of data originality, and so much more!
 
 A hashing algorithm is like a perfectly defined food processor where if you put the same exact vegetables into it in the exact same fashion and run it for the exact same time, you will always get the same exact result. Feeding the same data into a hashing algorithm will always produce the same signature, and every unique data set will always produce its own unique signature no matter how many times or at what point in time you feed that data into the hash function. Also, if you change anything at all in the data, the signature changes in a way that you couldn't destinguish what change may have caused the change through the change in the signature. If any of these rules are violated (in a relatively easy way), your hashing algorithm is defunct and can no longer serve the purpose it was intended for.
 
 If we take this hash and append it the hash of real world data onto a blockchain, the result is that the without revealing the data that produced the hash, we can prove that that data existed, in its perfect form
-As long as the ledger of this blockchain exists in a verifiable way (as strong as the currency on it), the proof that the data that produced that hash existed at that certain time, is as imposible to contradict, having to crack the hashing algorithm that was used in order to invalidate the integrity of the proof of the data that was used to produce the submited hash.
+As long as the ledger of this blockchain exists in a verifiable way (as strong as the currency on it), the proof that the data that produced that hash existed at that certain time, is as impossible to contradict, having to crack the hashing algorithm that was used in order to invalidate the integrity of the proof of the data that was used to produce the submitted hash.
 
 As a first application, data that is time stamped cannot be impostered by any other data set
 
