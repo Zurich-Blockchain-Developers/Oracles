@@ -1,4 +1,4 @@
-# ProofOfData
+# Using immutable hashes as proofs
 
 Another simple use case of an immutable ledger that supports digital currency is to prove the existence of real world data in a time stamped permanent manner.
 This may not seem significant at first but this simple ability serves as infrastructure for an incredible amount of services, part of which, I believe, will be fundamental to future society. Trust-less file comparison, notarizing of real world data, assisting proof of data originality, and so much more!
