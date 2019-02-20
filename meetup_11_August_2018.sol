@@ -2,6 +2,7 @@
 The idea was to write a smart contract that allows for a transaction between two parties, 
 but with a trusted third party that verifies the identity of the parties and could step 
 in as an arbitrator in case of disputes.
+The third party can also be an oracle based on which the contract may behave differently.
 */
 
 pragma solidity ^0.4.24;
