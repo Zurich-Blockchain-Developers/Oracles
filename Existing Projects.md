@@ -20,6 +20,7 @@ Oracle masternodes:
 - The number of Oracle Masternodes is limited to only 2000
 - strict enforcement of the requirements for Oracle Masternodes participation. The penalties for Oracles that attempt to feed bad data to the network are prohibitive
 - Supermajority (75%) consensus among the Oracle Masternode network is required in order to post game results on the blockchain
+- Independent network, oracles are not compatible with ethereum and cannot be used in Ethereum smart contracts
 
 # Gnosis
 ## Target
