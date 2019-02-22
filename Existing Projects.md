@@ -13,6 +13,7 @@ Currently dominated by huge corporation, heavy regulations and misalignment of c
 # Wagerr
 Wagerr is a two tiered network comprised of standard wallets and Oracle Masternodes.
 Standard Proof of Stake wallets
+
 ● The first layer is the standard transactional layer in which basic wallets earn rewards
 for block formation.
 ● Provide network security and confirm blocks of transactions that constitute the
@@ -20,6 +21,7 @@ blockchain, the ledger of immutable transactions.
 ● Maintain a full copy of the blockchain. (ouch)
 
 Oracle Masternode intranet
+
 ● Oracle Masternodes, a second layer of the Wagerr network, function as consensus
 agents, forging betting contracts, retrieving sporting events outcomes data, and
 consensually validating results that trigger contractual payouts.
