@@ -1,6 +1,9 @@
 # Intro
 In this document we and analyse summarise interesting existing Oracle projects to understand what's missing in the market today and how our project can distinguish itself
 
+# Chainlink
+Interesting oracle service with several API to be configured with several services (e.g. PayPal, Visa,...)
+
 # Etherisc
 ## Target Market & Platform Description
 Insurance industry.
@@ -12,7 +15,7 @@ Currently dominated by huge corporation, heavy regulations and misalignment of c
 
 # Wagerr
 ## Target Market & Platform Description
-Sport betting
+Sport betting.
 Wagerr is a two tiered network comprised of standard wallets and Oracle Masternodes.
 
 Standard Proof of Stake wallets:
