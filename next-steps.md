@@ -6,4 +6,4 @@
 - in other applications use consensus oracles
 - prepare a solution state we want to achieve for our supply chain business case
 - prepare different ways to achieve the solution state, present and discuss them at the meetup
-- Update Existing Projects.md
+- Update Existing Projects.md.
